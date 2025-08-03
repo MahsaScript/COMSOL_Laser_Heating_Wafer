@@ -1,2 +1,2 @@
-# COMSOL_PVoltage_Discharge_diode_Circuit
+# COMSOL_Laser_Heating_Wafer
 COMSOL_PVoltage_Discharge_diode_Circuit
