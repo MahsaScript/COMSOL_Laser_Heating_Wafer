@@ -1,0 +1,2 @@
+# COMSOL_PVoltage_Discharge_diode_Circuit
+COMSOL_PVoltage_Discharge_diode_Circuit
